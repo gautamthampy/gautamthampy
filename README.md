@@ -14,20 +14,6 @@ const gautam = {
 ```
 This week:
 <!--START_SECTION:waka-->
-
-```rust
-From: 09 October 2025 - To: 16 October 2025
-
-Total Time: 2 hrs 35 mins
-
-TypeScript   1 hr 35 mins    >>>>>>>>>>>>>>>----------   61.69 %
-Markdown     39 mins         >>>>>>-------------------   25.23 %
-HTML         12 mins         >>-----------------------   07.74 %
-CSS          7 mins          >------------------------   04.76 %
-Text         0 secs          -------------------------   00.36 %
-XML          0 secs          -------------------------   00.06 %
-```
-
 <!--END_SECTION:waka-->
 
 
