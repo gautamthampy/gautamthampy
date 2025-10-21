@@ -16,11 +16,17 @@ This week:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2025 - To: 20 October 2025
+From: 14 October 2025 - To: 21 October 2025
 
-Total Time: 0 secs
+Total Time: 2 hrs 56 mins
 
-No activity tracked
+TypeScript   2 hrs 23 mins   >>>>>>>>>>>>>>>>>>>>-----   78.45 %
+Markdown     17 mins         >>-----------------------   09.51 %
+Bash         7 mins          >------------------------   04.13 %
+Other        6 mins          >------------------------   03.51 %
+CSS          1 min           -------------------------   00.89 %
+SQL          0 secs          -------------------------   00.15 %
+Git Config   0 secs          -------------------------   00.10 %
 ```
 
 <!--END_SECTION:waka-->
