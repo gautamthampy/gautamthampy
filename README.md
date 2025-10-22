@@ -16,17 +16,18 @@ This week:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2025 - To: 21 October 2025
+From: 15 October 2025 - To: 22 October 2025
 
-Total Time: 2 hrs 56 mins
+Total Time: 4 hrs 24 mins
 
-TypeScript   2 hrs 23 mins   >>>>>>>>>>>>>>>>>>>>-----   78.45 %
-Markdown     17 mins         >>-----------------------   09.51 %
-Bash         7 mins          >------------------------   04.13 %
-Other        6 mins          >------------------------   03.51 %
-CSS          1 min           -------------------------   00.89 %
-SQL          0 secs          -------------------------   00.15 %
-Git Config   0 secs          -------------------------   00.10 %
+TypeScript   2 hrs 24 mins   >>>>>>>>>>>>>------------   53.14 %
+Markdown     48 mins         >>>>---------------------   17.74 %
+Python       13 mins         >------------------------   04.81 %
+Git Config   10 mins         >------------------------   04.04 %
+Bash         7 mins          >------------------------   02.79 %
+Other        6 mins          >------------------------   02.40 %
+CSS          4 mins          -------------------------   01.48 %
+TSConfig     2 mins          -------------------------   00.80 %
 ```
 
 <!--END_SECTION:waka-->
