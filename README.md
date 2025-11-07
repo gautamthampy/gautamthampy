@@ -16,11 +16,11 @@ This week:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 October 2025 - To: 06 November 2025
+From: 31 October 2025 - To: 07 November 2025
 
-Total Time: 4 mins
+Total Time: 0 secs
 
-Markdown   4 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
