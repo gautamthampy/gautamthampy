@@ -16,12 +16,15 @@ This week:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2025 - To: 01 December 2025
+From: 25 November 2025 - To: 02 December 2025
 
-Total Time: 4 hrs 6 mins
+Total Time: 11 hrs 52 mins
 
-Python   4 hrs 6 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.98 %
-Text     0 secs          -------------------------   00.02 %
+Python       11 hrs 36 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   96.09 %
+Text         15 mins         >------------------------   02.17 %
+Other        11 mins         -------------------------   01.59 %
+Git Config   0 secs          -------------------------   00.08 %
+Markdown     0 secs          -------------------------   00.06 %
 ```
 
 <!--END_SECTION:waka-->
