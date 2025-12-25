@@ -16,12 +16,12 @@ This week:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2025 - To: 24 December 2025
+From: 18 December 2025 - To: 25 December 2025
 
-Total Time: 30 mins
+Total Time: 20 mins
 
-C        22 mins         >>>>>>>>>>>>>>>>>>-------   73.36 %
-Docker   8 mins          >>>>>>>------------------   26.64 %
+C        12 mins         >>>>>>>>>>>>>>>----------   60.84 %
+Docker   8 mins          >>>>>>>>>>---------------   39.16 %
 ```
 
 <!--END_SECTION:waka-->
