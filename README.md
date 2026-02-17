@@ -16,16 +16,16 @@ This week:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2026 - To: 16 February 2026
+From: 10 February 2026 - To: 17 February 2026
 
-Total Time: 2 hrs 30 mins
+Total Time: 3 hrs 14 mins
 
-Python        1 hr 14 mins    >>>>>>>>>>>>-------------   46.84 %
-Markdown      59 mins         >>>>>>>>>----------------   37.60 %
-Text          13 mins         >>-----------------------   08.39 %
-Other         8 mins          >------------------------   05.27 %
-Objective-C   2 mins          -------------------------   01.41 %
-HTML          0 secs          -------------------------   00.07 %
+Python        1 hr 50 mins    >>>>>>>>>>>>>>-----------   54.56 %
+Markdown      1 hr 7 mins     >>>>>>>>-----------------   33.53 %
+Text          13 mins         >>-----------------------   06.58 %
+Other         8 mins          >------------------------   04.13 %
+Objective-C   1 min           -------------------------   00.82 %
+HTML          0 secs          -------------------------   00.06 %
 ```
 
 <!--END_SECTION:waka-->
