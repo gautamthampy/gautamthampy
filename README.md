@@ -16,16 +16,13 @@ This week:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2026 - To: 21 February 2026
+From: 15 February 2026 - To: 22 February 2026
 
-Total Time: 3 hrs 57 mins
+Total Time: 1 hr 53 mins
 
-Python     2 hrs 20 mins         >>>>>>>>>>>>>>>----------   59.11 %
-Markdown   1 hr 10 mins          >>>>>>>------------------   29.67 %
-Text       13 mins               >------------------------   05.61 %
-Docker     12 mins               >------------------------   05.18 %
-Other      0 secs                -------------------------   00.13 %
-HTML       0 secs                -------------------------   00.05 %
+Python     1 hr 30 mins          >>>>>>>>>>>>>>>>>>>>-----   79.36 %
+Docker     12 mins               >>>----------------------   10.81 %
+Markdown   11 mins               >>-----------------------   09.83 %
 ```
 
 <!--END_SECTION:waka-->
