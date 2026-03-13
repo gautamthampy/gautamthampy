@@ -16,13 +16,11 @@ This week:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2026 - To: 12 March 2026
+From: 06 March 2026 - To: 13 March 2026
 
-Total Time: 27 mins
+Total Time: 0 secs
 
-Markdown   9 mins                >>>>>>>>-----------------   32.83 %
-Bash       0 secs                -------------------------   00.69 %
-Other      0 secs                -------------------------   00.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
