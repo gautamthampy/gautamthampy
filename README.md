@@ -16,16 +16,15 @@ This week:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2026 - To: 24 March 2026
+From: 18 March 2026 - To: 25 March 2026
 
-Total Time: 1 hr 40 mins
+Total Time: 1 hr 46 mins
 
-TypeScript   1 hr 13 mins          >>>>>>>>>>>>>------------   52.42 %
-Other        38 mins               >>>>>>>------------------   27.54 %
-Markdown     19 mins               >>>----------------------   13.92 %
-Git Config   0 secs                -------------------------   00.21 %
-CSS          0 secs                -------------------------   00.19 %
-Python       0 secs                -------------------------   00.15 %
+TypeScript   1 hr 13 mins          >>>>>>>>>>>>>------------   50.51 %
+Other        38 mins               >>>>>>>------------------   26.53 %
+Markdown     32 mins               >>>>>>-------------------   22.21 %
+Git Config   0 secs                -------------------------   00.20 %
+CSS          0 secs                -------------------------   00.18 %
 JavaScript   0 secs                -------------------------   00.01 %
 ```
 
