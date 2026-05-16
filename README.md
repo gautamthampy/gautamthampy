@@ -16,20 +16,11 @@ This week:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 May 2026 - To: 15 May 2026
+From: 09 May 2026 - To: 16 May 2026
 
-Total Time: 1 hr 45 mins
+Total Time: 0 secs
 
-Markdown      46 mins               >>>>>>>>>>---------------   39.52 %
-Python        35 mins               >>>>>>>------------------   29.92 %
-Other         13 mins               >>>----------------------   11.44 %
-Text          6 mins                >------------------------   05.83 %
-CSV           4 mins                >------------------------   03.39 %
-SQL           3 mins                >------------------------   02.89 %
-TypeScript    3 mins                >------------------------   02.86 %
-HTML          1 min                 -------------------------   01.67 %
-Image (png)   1 min                 -------------------------   00.97 %
-Git Config    0 secs                -------------------------   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
