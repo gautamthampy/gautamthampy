@@ -16,19 +16,19 @@ This week:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2026 - To: 23 May 2026
+From: 17 May 2026 - To: 24 May 2026
 
-Total Time: 5 hrs 53 mins
+Total Time: 4 hrs 10 mins
 
-TypeScript    2 hrs 24 mins         >>>>>>>>>>---------------   39.71 %
-Markdown      1 hr 34 mins          >>>>>>>------------------   26.07 %
-Python        45 mins               >>>----------------------   12.46 %
-JavaScript    35 mins               >>-----------------------   09.67 %
-Other         9 mins                >------------------------   02.48 %
-Git Config    6 mins                -------------------------   01.74 %
-CSS           5 mins                -------------------------   01.48 %
-Mermaid       3 mins                -------------------------   00.85 %
-Text          2 mins                -------------------------   00.74 %
+TypeScript    2 hrs 8 mins          >>>>>>>>>>>>>------------   50.33 %
+Markdown      1 hr 25 mins          >>>>>>>>-----------------   33.47 %
+Python        20 mins               >>-----------------------   07.88 %
+Git Config    6 mins                >------------------------   02.45 %
+Other         5 mins                >------------------------   02.02 %
+Mermaid       3 mins                -------------------------   01.21 %
+JavaScript    2 mins                -------------------------   00.92 %
+CSS           1 min                 -------------------------   00.70 %
+Text          0 secs                -------------------------   00.14 %
 ```
 
 <!--END_SECTION:waka-->
